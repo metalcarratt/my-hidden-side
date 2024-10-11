@@ -3,7 +3,7 @@ import './App.css'
 import { World } from './world/world'
 import { useCritters } from './world/critters'
 import { useHover } from './world/hover';
-import { Direction, useGlobalSpotlight, useSpotlight } from './world/spotlight';
+import { Direction, useGlobalSpotlight } from './world/spotlight';
 
 
 

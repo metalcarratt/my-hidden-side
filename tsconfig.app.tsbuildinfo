@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/state-context.tsx","./src/vite-env.d.ts","./src/world/cell.tsx","./src/world/colour.ts","./src/world/critters.ts","./src/world/hover.ts","./src/world/spotlight.ts","./src/world/world.tsx","./src/world/xy.ts"],"version":"5.6.2"}
